@@ -1,0 +1,14 @@
+{
+  "name": "certificate-verification-blockchain",
+  "version": "1.0.0",
+  "description": "Truffle project for Certificate Verification Smart Contracts",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "truffle": "^5.11.5"
+  }
+}
